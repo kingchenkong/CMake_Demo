@@ -1,0 +1,3 @@
+/home/saw/Documents/SAW_2023/Code/CMake_Demo/CMake_Demo/exe_ubuntu/build/CMakeFiles/_exe.dir
+/home/saw/Documents/SAW_2023/Code/CMake_Demo/CMake_Demo/exe_ubuntu/build/CMakeFiles/edit_cache.dir
+/home/saw/Documents/SAW_2023/Code/CMake_Demo/CMake_Demo/exe_ubuntu/build/CMakeFiles/rebuild_cache.dir
